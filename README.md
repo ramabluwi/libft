@@ -55,12 +55,6 @@ To use `libft` in your project, include the header and link the library:
 #include "libft.h"
 ```
 
-Compile your program with `libft.a`:
-
-```sh
-cc -Wall -Wextra -Werror your_program.c -L. -lft -o your_program
-```
-
 ## 🛠 Function Categories
 
 ### 📝 String Manipulation
