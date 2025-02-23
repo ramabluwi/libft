@@ -116,7 +116,7 @@ cc -Wall -Wextra -Werror your_program.c -L. -lft -o your_program
 
 - Deep understanding of standard C library functions.
 - Memory allocation and management.
-- String and linked list manipulation.
+- String manipulation.
 - Makefile usage for compiling libraries.
 
 ## 📜 License
